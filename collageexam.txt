@@ -1,0 +1,6 @@
+file handling
+http://vbwithsuman.blogspot.com/p/file-handling.html
+Graphics method
+https://www.go4expert.com/articles/graphics-visual-basic-6-t30202/
+Working with multiple Forms
+https://www.informit.com/articles/article.aspx?p=102148&seqNum=7#:~:text=Select%20File%2C%20New%2C%20Project%20from,from%20the%20menu%20that%20appears.
